@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - AdShield</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+        h1 { color: #333; }
+        h2 { color: #555; }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidad</h1>
+    <p><strong>Última actualización:</strong> [Fecha de Publicación]</p>
+    
+    <h2>1. Introducción</h2>
+    <p>AdShield es una extensión de navegador diseñada para bloquear anuncios y mejorar la experiencia del usuario en la web. Respetamos tu privacidad y nos comprometemos a no recopilar, almacenar ni compartir ningún dato personal.</p>
+    
+    <h2>2. Datos que NO recopilamos</h2>
+    <p>Esta extensión NO recopila ni almacena información personal, historial de navegación, direcciones IP u otra información identificable del usuario.</p>
+    
+    <h2>3. Permisos requeridos</h2>
+    <p>Para funcionar correctamente, AdShield solicita los siguientes permisos:</p>
+    <ul>
+        <li><strong>webRequest y webRequestBlocking:</strong> Para bloquear anuncios antes de que se carguen en las páginas web.</li>
+        <li><strong>Permiso de host (<code>&lt;all_urls&gt;</code>):</strong> Para analizar y bloquear anuncios en cualquier página web visitada.</li>
+    </ul>
+    <p>Estos permisos se utilizan exclusivamente para el propósito de bloqueo de anuncios y no se usan para recopilar datos personales.</p>
+    
+    <h2>4. Seguridad</h2>
+    <p>AdShield no transmite ni comparte datos con terceros. No se conecta a servidores externos ni carga scripts remotos.</p>
+    
+    <h2>5. Cambios en esta política</h2>
+    <p>Podemos actualizar esta política ocasionalmente. Se recomienda revisar esta página periódicamente para estar informado de cualquier cambio.</p>
+    
+    <h2>6. Contacto</h2>
+    <p>Si tienes alguna pregunta sobre esta política de privacidad, puedes contactarnos en: <strong>[Tu correo o sitio web]</strong></p>
+</body>
+</html>
